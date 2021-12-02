@@ -1,0 +1,36 @@
+#photo{
+  
+  width: 20px;
+  left: 20px;
+  border-radius: 20px;
+}
+
+header{
+  text-align: center;   
+  
+}
+body {
+  background: url(https://www.wallpapertip.com/wmimgs/76-766695_children-boy-girl-flower-rose-mood-romance-wallpaper.jpg) #444;
+  background-size: cover;
+  padding-bottom: 80px;   
+  
+}
+#login .container #login-row #login-column #login-box {
+  background: url(https://www.wallpapertip.com/wmimgs/35-355655_image-sale-at-builders-warehouse.jpg) #444;
+  margin-top: 60px;
+  max-width: 600px;
+  height: 320px;
+  border: 1px solid #c90c0c;
+  }
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login
+  .container
+  #login-row
+  #login-column
+  #login-box
+  #login-form
+  #register-link {
+  margin-top: -85px;
+}

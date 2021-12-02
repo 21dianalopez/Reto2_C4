@@ -1,0 +1,24 @@
+body {
+  background: url(https://www.wallpapertip.com/wmimgs/190-1900884_untitled-design-clothing.png) #444;
+  background-size: cover;
+  padding-bottom: 80px; 
+}
+#login .container #login-row #login-column #login-box {
+  margin-top: 30px;
+  max-width: 600px;
+  height: 520px;
+  border: 1px solid #c90c0c;
+  background: url(https://www.wallpapertip.com/wmimgs/35-355655_image-sale-at-builders-warehouse.jpg) #444;
+}
+#login .container #login-row #login-column #login-box #login-form {
+  padding: 20px;
+}
+#login
+  .container
+  #login-row
+  #login-column
+  #login-box
+  #login-form
+  #register-link {
+  margin-top: -85px;
+}
